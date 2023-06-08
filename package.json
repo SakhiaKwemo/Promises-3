@@ -1,0 +1,14 @@
+{
+  "name": "inde",
+  "version": "1.0.0",
+  "description": "- [x] Sync vs Async Review (Demo)\r     - async.js\r - [x] High Order Functions & Callback Review (Demo)\r     - callback.js\r     - not all functions with callbacks are async (foreach, map ...)\r     - but all async functions use callbacks, or return a function is async\r - [] Hal Example (Video)\r     - userInterface callback explanation\r     - userInterface promises explanation\r - [] Introduction to Promises\r     - promise.js\r     - add setTimeout\r - [] promise-all\r     - promise-all.js\r - [] promise-race\r     - promise-race.js\r - [] promise-read-file\r     - readFlile.js",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-promise": "^1.0.5"
+  }
+}
